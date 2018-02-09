@@ -1,0 +1,10 @@
+Question 05: C
+Question 06: B
+Question 08: E. EL metodo poll will return null. (line 26)
+QUESTION 09
+Question 10: D. El metodo register debe darsele en los argumentos el tipo de eventos que
+				Estamos registrando. De no hacerlo arroja la exception IllegalArgumentException, que a su
+				vez si no esta capturada la maquina virtual arroja la excepcion "uncaughtException"
+Question 11. B y D. 
+Question 12. D
+				
